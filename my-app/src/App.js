@@ -144,6 +144,7 @@ Exemplo 3 (guardar o valor anterior do state):
 
 */
 
+/*
 import { useEffect, useState, useRef } from 'react'
 
 const App = () => {
@@ -169,5 +170,7 @@ const App = () => {
   )
 }
 
-export default App;
+export default App; */
+
+
 
